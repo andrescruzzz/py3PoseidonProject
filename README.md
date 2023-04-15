@@ -1,4 +1,4 @@
-# Sudoku Game
+# SudokuPro
 
 This is the project of the Poseidon group for LBYCPA1!
 
